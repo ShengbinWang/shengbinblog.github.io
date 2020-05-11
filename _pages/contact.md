@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
+Department of Mechanical Engineering, University of Houston<br>
+4800 Calhoun Rd, Houston, TX 77004<br>
+Email: swang62 [at] uh.edu
 
