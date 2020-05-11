@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Shengbin Wang"
-  avatar           : "shengbinwang.jpg"
+  avatar           : "https://shengbinwang.github.io/files/shengbinwang.jpg?raw=true"
   bio              : "Ph.D. student, Mechanical Engineering Department, University of Houston"
   location         : "Houston, Texas"
   employer         :
