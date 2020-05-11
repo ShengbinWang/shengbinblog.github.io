@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://ShengbinWang/shengbinwang.github.io/files/shengbinwang1.jpg" alt="Photo" style="width: 450px;"/> 
+  <img src="https://ShengbinWang/shengbinwang.github.io/files/shengbinwang1.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 # About Me
