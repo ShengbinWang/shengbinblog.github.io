@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>[2 Dimensionally Maneuverable Jellyfish-Inspired Robot Enabled by Multiple Soft Actuators]</b> <br> 
+<b>2 Dimensionally Maneuverable Jellyfish-Inspired Robot Enabled by Multiple Soft Actuators</b> <br> 
 <b>Shengbin Wang</b>,Zheng Chen.
 <i>TMECH_AIM concurrent 2022 (Under review)</i>.
 
