@@ -16,4 +16,4 @@ redirect_from:
 * 一个爱好和平的人 
 
 # Recent News
-* 刚吃完
+* 刚吃完，在等下一餐
