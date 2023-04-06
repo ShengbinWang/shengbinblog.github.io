@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Shengbin Wang"
 title_separator          : "-"
 name                     : &name "Shengbin Wang"
-description              : &description "Ph.D. student, Mechanical Engineering Department, University of Houston"
+description              : &description "Thinker"
 url                      : https://shengbinwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ShengbinWang/shengbinwang.github.io"
+repository               : "ShengbinWang/shengbinblog.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,12 +78,12 @@ analytics:
 # Site Author
 author:
   name             : "Shengbin Wang"
-  avatar           : "https://shengbinwang.github.io/files/shengbinwang2.jpg?raw=true"
-  bio              : "Ph.D. student, Mechanical Engineering Department, University of Houston"
-  location         : "Houston, Texas"
+  avatar           : "https://shengbinblog.github.io/files/shengbinwang2.jpg?raw=true"
+  bio              : "Thinker"
+  location         : "United States"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=uhlT-6UAAAAJ&hl=en&oi=sra"
-  email            : "swang62@uh.edu"
+  googlescholar    : 
+  email            : "sambin_wang@yahoo.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,7 +95,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "shengbin-wang-bb0243181/"
+  linkedin         : #"shengbin-wang-bb0243181/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
