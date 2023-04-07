@@ -1,1 +1,1 @@
-[Welcome to my homepage!](https://shengbinblog.github.io/)
+[Welcome to my homepage!](https://shengbinwang.com/)
