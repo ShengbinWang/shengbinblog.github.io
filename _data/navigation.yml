@@ -20,9 +20,12 @@ main:
         
   - title: "Blogs"
     url: /year-archive/
+
+  - title: "Leetcode"
+    url: /leetcode-notes/  
     
   - title: "Contact"
     url: /contact/  
-    
+
   # - title: "Guide"
     # url: /markdown/
